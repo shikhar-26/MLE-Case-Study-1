@@ -1,4 +1,4 @@
-# MLE-Case Study-2
+# MLE-Case Study-1
 # Case Study 1: Hospital Readmission Prediction Logistic Regression with L2 Regularization
 
 
