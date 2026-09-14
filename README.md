@@ -1,6 +1,6 @@
-#MLE-Case Study-2
-Case Study 1: Hospital Readmission Prediction
-Logistic Regression with L2 Regularization
+# MLE-Case Study-2
+# Case Study 1: Hospital Readmission Prediction Logistic Regression with L2 Regularization
+
 
 Goal: Predict whether a patient will be readmitted to the hospital within 30 days, using basic patient record data (diagnosis, vitals-related fields, prior hospital stay info).
 
